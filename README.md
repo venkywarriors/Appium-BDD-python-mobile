@@ -38,4 +38,4 @@ Note: before you run the script, make sure you change the configure for device.
 
 * [Documentation](https://github.com/julialiuliu/Appium-BDD-python-mobile-app-testing/wiki)
 * [Issue Tracking](https://github.com/julialiuliu/Appium-BDD-python-mobile-app-testing/issues)
-* Contact me: [jiuboliu@gmail.com](jiuboliu@gmail.com)
+* Contact me: [venkywarriors619@gmail.com](venkywarriors619@gmail.com)
